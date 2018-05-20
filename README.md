@@ -1,4 +1,9 @@
-<<<<<<< HEAD
+### Install
+* Run `sudo npm install node-cron`
+* Run `sudo npm install sails-mongo`
+* Run `sudo npm install sails -g`
+* Run `sudo npm install nodemon`
+
 # articlebase
 
 a [Sails v1](https://sailsjs.com) application
