@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # articlebase
 
 a [Sails v1](https://sailsjs.com) application
@@ -25,3 +26,7 @@ This app was originally generated on Sat May 19 2018 05:40:35 GMT-0400 (DST) usi
 Note:  Generators are usually run using the globally-installed `sails` CLI (command-line interface).  This CLI version is _environment-specific_ rather than app-specific, thus over time, as a project's dependencies are upgraded or the project is worked on by different developers on different computers using different versions of Node.js, the Sails dependency in its package.json file may differ from the globally-installed Sails CLI release it was originally generated with.  (Be sure to always check out the relevant [upgrading guides](https://sailsjs.com/upgrading) before upgrading the version of Sails used by your app.  If you're stuck, [get help here](https://sailsjs.com/support).)
 -->
 
+=======
+# Article-Base
+Web app that allows people to write, share, update, and delete articles.
+>>>>>>> 23d5431866d34b6ee6d3c151bc8b214c4b3cb07c
